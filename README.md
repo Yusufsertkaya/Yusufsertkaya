@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YUSUF SERTKAYA-YsK</h1>
 <h3 align="center">I am a second-year computer engineering student with a keen interest in exploring various fields.</h3>
 
-- 🔭 I’m currently working on **SmartPharma,Ukulan**
+- 🔭 I’m currently working on **SmartPharma,**
 
 - 🌱 I’m currently learning **React,Tensorflow,OpenCv**
 
